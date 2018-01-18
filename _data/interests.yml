@@ -1,9 +1,15 @@
 - interest:
-  item: Climbing
+  item: Travels
   link:
 - interest:
-  item: Snowboarding
+  item: Fantasy films and literature
   link:
 - interest:
-  item: Cooking
+  item: Sport: football and kendo
+  link:
+  - interest:
+  item: Technology: programming and automation
+  link:
+    - interest:
+  item: Computer games
   link:

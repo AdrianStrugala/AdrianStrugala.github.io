@@ -1,9 +1,12 @@
 - language:
-  idiom: English
+  idiom: Polish
   level: Native
 - language:
-  idiom: French
+  idiom: English
   level: Professional
 - language:
   idiom: Spanish
-  level: Professional
+  level: Basic
+- language:
+  idiom: German
+  level: Basic
