@@ -1,7 +1,6 @@
 **Online Resume of myself**
 
-Using:
-This theme is designed by Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
+Using theme designed by Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
 
 Made this into a Jekyll Theme by Sharu725 (https://github.com/sharu725/online-cv/)
 
