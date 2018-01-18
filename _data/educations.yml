@@ -1,8 +1,15 @@
 - education:
-  degree: MSc in Computer Science
-  university: University of London
-  time: 2011 - 2012
+  university: Wroclaw University of Science and Technology, Faculty of Electronics
+  degree: MSc in Computer Science in English
+  speciality: Advanced Informatics and Control
+  time: 03/2017 - present
 - education:
-  degree: BSc in Applied Mathematics
+  university: Wroclaw University of Science and Technology, Faculty of Electronics
+  degree: BEng in Control Engineering and Robotics
+  speciality: Computerized Control Networks
+  time: 10/2013 - 02/2017
+  - education:
+  degree: 
   university: Bristol University
-  time: 2007 - 2011
+  time: 09/2010 - 06/2017
+  
