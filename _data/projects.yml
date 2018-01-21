@@ -1,28 +1,27 @@
 - intro:
   description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-
 - project:
   title: Panaceum
   link: "#"
-  tagline: add description
+  tagline: "add description"
 - project:
   title: Traveling Eco-Salesman
   link: "#"
-  tagline: add description
+  tagline: "add description"
 - project:
   title: Park Space Recognizer
   link: "#"
-  tagline: add description 
+  tagline: "add description" 
 - project:
   title: SMASH
   link: "#"
-  tagline: add description
+  tagline: "add description"
 - project:
   title: Access Control System for Feniks
   link: "#"
-  tagline: add description
+  tagline: "add description"
  - project:
   title: Automated heating system for block of flats
   link: "#"
-  tagline: add description
+  tagline: "add description"
