@@ -3,22 +3,26 @@
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
-- project:
-  title: DevStudio
+  title: Panaceum
   link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  tagline: add description
 - project:
-  title: Tempo
+  title: Traveling Eco-Salesman
   link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  tagline: add description
 - project:
-  title: Atom
+  title: Park Space Recognizer
   link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  tagline: add description 
 - project:
-  title: Delta
+  title: SMASH
   link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  tagline: add description
+- project:
+  title: Access Control System for Feniks
+  link: "#"
+  tagline: add description
+ - project:
+  title: Automated heating system for block of flats
+  link: "#"
+  tagline: add description
