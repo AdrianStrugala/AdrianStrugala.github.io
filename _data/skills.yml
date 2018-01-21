@@ -2,7 +2,7 @@
   name: C#
   level: 70%
 - skill:
-  name: Java, C ++ 
+  name: Java
   level: 60%
 - skill:
   name: PowerShell, Jenkins 
@@ -11,10 +11,16 @@
   name: Git
   level: 50%
 - skill:
+  name: C ++ 
+  level: 60%
+- skill:
   name: SQL
   level: 30%
 - skill:
-  name: C, Matlab
+  name: C
+  level: 30%
+- skill:
+  name: Matlab
   level: 20%
 - skill:
   name: HTML, CSS, JavaScript
@@ -26,5 +32,8 @@
   name: Microsoft Office Suite, Windows, Linux
   level: 50%
 - skill:
-  name: electronics, robotics
+  name: Robotics
+  level: 30%
+- skill:
+  name: Electronics
   level: 20%
