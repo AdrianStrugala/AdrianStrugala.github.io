@@ -1,27 +1,27 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: "Presentation of projects, that I am the most satisfied of. Contain wide range of desktop and web applications, projects of automatization and control for various buildings."
 - project:
   title: Panaceum
-  link: "#"
-  tagline: "add description"
+  link: "https://github.com/WWojnar/PanaceumDesktop"
+  tagline: "The idea of Panaceum is to automatize data flow in the hospital and between hospitals using presented software. Project is written in Java, implements REST API and stores data in PostgreSQL database."
 - project:
   title: Traveling Eco-Salesman
-  link: "#"
-  tagline: "add description"
+  link: "https://github.com/AdrianStrugala/Traveling-Eco-Salesman"
+  tagline: "Observing the past centuries we can conclude, that the humanity tend to search for optimal roads. Merchants, travelers, and explorers were creating more and more detailed maps. In the digital era, everyone can use free and open real-time maps found in the Internet. Some of them provide a feature for finding the shortest road connecting a set of cities, but very few can answer common question “Is it really worth to pay for toll highway or should I just stay on the free road?” A solution of Traveling Eco-Salesman Problem provides an answer to this question.
+  Program is written in C#, implements Ant Colony Optimization and God alorithms."
 - project:
   title: Park Space Recognizer
-  link: "#"
-  tagline: "add description" 
+  link: "https://github.com/AdrianStrugala/OccupiedParkSlotsRecognizer"
+  tagline: "We introduce the solution to find free parking slots from static images using computer vision based algorithms. This project is written in Java, uses Swing for visualization." 
 - project:
   title: SMASH
-  link: "#"
-  tagline: "add description"
+  link: "https://smash-fanart.blogspot.com/"
+  tagline: "Implementation of micro functionalities written in HTML, CSS and JavaScript to a blog."
 - project:
-  title: Access Control System for Feniks
-  link: "#"
-  tagline: "add description"
+  title: Intelligent House
+  link: "https://github.com/AdrianStrugala/Intelligent-House"
+  tagline: "Complete comfort and security system for a single family house."
 - project:
   title: Automated heating system for block of flats
-  link: "#"
-  tagline: "add description"
+  link: "https://github.com/AdrianStrugala/ModelOgrzewania"
+  tagline: "Automated heating system based on a model of small block of flats. Written in MATLAB."
