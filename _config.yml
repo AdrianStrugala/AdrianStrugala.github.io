@@ -14,10 +14,7 @@ baseurl: 'https://adrianstrugala.github.io/'
 name: Adrian Strugala
 tagline: Software Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'I am a young and ambitious software developer and engineer of control engineering and robotics. I am open-minded and I am always looking for the newest technologies. Feel welcome to read about some of my newest projects.'
 
 #sidebar links
 email: strugala.adrian@gmail.com
